@@ -1,6 +1,6 @@
 # MaterialWidget
 
-Simple Material Theme Widgets.
+Simple Material Theme Widgets for SwiftUI.
 See <https://m3.material.io/components/text-fields/overview>
 
 ##Usages:
