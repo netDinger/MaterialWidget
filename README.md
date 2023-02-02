@@ -1,17 +1,20 @@
 # MaterialWidget
 
 Simple Material Theme Widgets for SwiftUI.
+
 See <https://m3.material.io/components/text-fields/overview>
 
 ##Usages:
-    For MaterialTextField,
+
+For MaterialTextField,
 
 ```swift
 MaterialTextField(self.$email, hint: "Email", width: 320, height: 53,showWarning: true,warningInfo: self.$info,valid: self.$valid, showLeadingIcon: true,leadingIconName: "account.circle.fill",showTailingIcon: true,tailingIconName: "account.circle.fill")
 ```
 
 
-    For MaterialPasswordField,
+For MaterialPasswordField,
+
 
 ```swift
 MaterialPasswordField(self.$password,
