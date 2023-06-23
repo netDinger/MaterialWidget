@@ -33,7 +33,7 @@ MaterialPasswordField(self.$password,
 
 You can also remove some unwanted paramaters too.
 
-AddIt! UseIt! Easy and Simple but ATTRACTIVE!
+AddIt! GrabIt! Easy and Simple but ATTRACTIVE!
 
 
 
